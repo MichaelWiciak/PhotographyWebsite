@@ -1,2 +1,2 @@
-# InteractiveAndResponsiveWebsite
-Website showcasing advanced JavaScript, jQuery, geolocation, HTML Forms and various other advanced features.
+# Photography Website 
+First website I made using JS, JQuery for storing some photographs I am most proud of. 
